@@ -1,0 +1,52 @@
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.pdb
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.dll
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll.config
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\nunit.framework.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\System.Data.SqlServerCe.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.xml
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\nunit.framework.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\nunit.framework.xml
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.csprojResolveAssemblyReference.cache
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll.config
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll.config
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\ProjectManager.Entity.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\nunit.framework.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Entity\obj\Debug\ProjectManager.Entity.pdb

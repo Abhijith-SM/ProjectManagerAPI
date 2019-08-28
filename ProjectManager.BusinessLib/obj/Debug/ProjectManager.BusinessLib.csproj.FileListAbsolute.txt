@@ -1,0 +1,58 @@
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.dll
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.pdb
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.dll
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\nunit.framework.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Model.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\EntityFramework.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.dll.config
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Model.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\nunit.framework.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\nunit.framework.xml
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.dll.config
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\EntityFramework.xml
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.csprojResolveAssemblyReference.cache
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Model.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.dll.config
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Model.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.dll.config
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.BusinessLib.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Model.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.DataAccessLib.dll.config
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Model.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\nunit.framework.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\ProjectManager.Entity.dll.config
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.BusinessLib\obj\Debug\ProjectManager.BusinessLib.pdb

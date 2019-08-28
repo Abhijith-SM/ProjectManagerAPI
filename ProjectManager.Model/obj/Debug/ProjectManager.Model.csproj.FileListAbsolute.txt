@@ -1,0 +1,28 @@
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Model\bin\Debug\ProjectManager.Model.pdb
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Model\obj\Debug\ProjectManager.Model.dll
+C:\718450\ProjectManager_Finalsubmit\ProjectManager.Model\obj\Debug\ProjectManager.Model.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\ProjectManager.Model.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\nunit.framework.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\nunit.framework.pdb
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\nunit.framework.xml
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\obj\Debug\ProjectManager.Model.csprojResolveAssemblyReference.cache
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\obj\Debug\ProjectManager.Model.dll
+C:\718450\ProjectManager_Finalsubmit_Back\ProjectManager.Model\obj\Debug\ProjectManager.Model.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\ProjectManager.Model.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\nunit.framework.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\nunit.framework.pdb
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\bin\Debug\nunit.framework.xml
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\obj\Debug\ProjectManager.Model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\obj\Debug\ProjectManager.Model.dll
+C:\Users\Admin\Desktop\SBA Final\ProjectManager_Finalsubmit_Back\ProjectManager.Model\obj\Debug\ProjectManager.Model.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\bin\Debug\ProjectManager.Model.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\bin\Debug\nunit.framework.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\bin\Debug\nunit.framework.pdb
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\bin\Debug\nunit.framework.xml
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\obj\Debug\ProjectManager.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\obj\Debug\ProjectManager.Model.dll
+C:\Users\Administrator\Desktop\SBA Final\ProjectManagerAPI\ProjectManager.Model\obj\Debug\ProjectManager.Model.pdb
